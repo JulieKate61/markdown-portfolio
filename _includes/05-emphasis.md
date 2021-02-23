@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# skills
+
+list of some _random_ **skills**
+
+## computer
+- python
+- xml
+- Json
+
+## cooking
+- cheescake
+- pavlova
+- 
